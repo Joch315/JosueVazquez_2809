@@ -1,2 +1,3 @@
 # JosueVazquez_2809
-Clase Organización y Administración 
+Nombre: Josue Vazquez #31525
+Organizacion y  Administracion
