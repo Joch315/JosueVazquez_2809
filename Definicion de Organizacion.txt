@@ -1,0 +1,14 @@
+Organizacion:
+
+Es la creacion de una estructura, la cual determine las jerarquias necesarias
+y agrupacion de actividades, con el fin de simplificar las mismas y sus funciones
+dentro de un grupo social.
+
+La organizacion nos permite segmentar las diversas areas o departamentos en una empresa,
+identificando puestos de trabajo, designando las actividades y funciones de cada uno de 
+los integrantes.
+
+Ejemplo:
+
+Realizar las copias de respaldo de la informacion y procesos de computo que se
+realizan aplicando en forma estricta las normas de seguridad y control establecidas
